@@ -1,0 +1,30 @@
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.csproj.AssemblyReference.cache
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.AssemblyInfoInputs.cache
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.AssemblyInfo.cs
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.csproj.CoreCompileInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\bin\Debug\net9.0\IPT102SalinasRepository.deps.json
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\bin\Debug\net9.0\IPT102SalinasRepository.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\bin\Debug\net9.0\IPT102SalinasRepository.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.csproj.AssemblyReference.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.AssemblyInfoInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.AssemblyInfo.cs
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.csproj.CoreCompileInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\refint\IPT102SalinasRepository.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\ref\IPT102SalinasRepository.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\bin\Debug\net9.0\IPT102SalinasRepository.deps.json
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\bin\Debug\net9.0\IPT102SalinasRepository.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\bin\Debug\net9.0\IPT102SalinasRepository.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.csproj.AssemblyReference.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.AssemblyInfoInputs.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.AssemblyInfo.cs
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.csproj.CoreCompileInputs.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\refint\IPT102SalinasRepository.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\ref\IPT102SalinasRepository.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasRepository\obj\Debug\net9.0\IPT102SalinasRepository.sourcelink.json

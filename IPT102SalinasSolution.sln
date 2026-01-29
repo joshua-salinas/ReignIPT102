@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT102SalinasRepository", "IPT102SalinasRepository\IPT102SalinasRepository.csproj", "{DD69917C-3F14-43A2-ABB9-887CC6BF7818}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "IPT102GarbageBinData", "IPT102GarbageBinData\IPT102GarbageBinData.sqlproj", "{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT102Framework", "IPT102Framework\IPT102Framework.csproj", "{62EEFAEE-0E03-434E-AD18-D61EF0A8D75C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT102SalinasDomain", "IPT102SalinasDomain\IPT102SalinasDomain.csproj", "{839A085F-8BD2-48F0-B55E-5308FFBA2C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT102SalinasWpfApp", "IPT102SalinasWpfApp\IPT102SalinasWpfApp.csproj", "{FD990759-3BB0-4820-B727-846DFA158279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT102SalinasBlazorApp", "IPT102SalinasBlazorApp\IPT102SalinasBlazorApp.csproj", "{8F4B4B90-7CD8-496D-8A3E-07A4279FD00C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD69917C-3F14-43A2-ABB9-887CC6BF7818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD69917C-3F14-43A2-ABB9-887CC6BF7818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD69917C-3F14-43A2-ABB9-887CC6BF7818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD69917C-3F14-43A2-ABB9-887CC6BF7818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EFCC51-94EE-42B2-A2EC-3D79F1C86D0E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{62EEFAEE-0E03-434E-AD18-D61EF0A8D75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EEFAEE-0E03-434E-AD18-D61EF0A8D75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EEFAEE-0E03-434E-AD18-D61EF0A8D75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EEFAEE-0E03-434E-AD18-D61EF0A8D75C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839A085F-8BD2-48F0-B55E-5308FFBA2C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839A085F-8BD2-48F0-B55E-5308FFBA2C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839A085F-8BD2-48F0-B55E-5308FFBA2C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839A085F-8BD2-48F0-B55E-5308FFBA2C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD990759-3BB0-4820-B727-846DFA158279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD990759-3BB0-4820-B727-846DFA158279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD990759-3BB0-4820-B727-846DFA158279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD990759-3BB0-4820-B727-846DFA158279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F4B4B90-7CD8-496D-8A3E-07A4279FD00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4B4B90-7CD8-496D-8A3E-07A4279FD00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4B4B90-7CD8-496D-8A3E-07A4279FD00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4B4B90-7CD8-496D-8A3E-07A4279FD00C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF49F47-974F-404F-A208-D7F81FFAB1D1}
+	EndGlobalSection
+EndGlobal
