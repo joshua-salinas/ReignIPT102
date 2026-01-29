@@ -1,0 +1,26 @@
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.dacpac
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.dll
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.pdb
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.sqlproj.AssemblyReference.cache
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\Model.xml
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\refactor.xml
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\postdeploy.sql
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\predeploy.sql
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.dll
+C:\IPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.dacpac
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.dll
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.sqlproj.AssemblyReference.cache
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\Model.xml
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\refactor.xml
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\postdeploy.sql
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\predeploy.sql
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.dll
+C:\amo ni\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.dacpac
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102GarbageBinData\bin\Debug\IPT102GarbageBinData.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.sqlproj.AssemblyReference.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102GarbageBinData\obj\Debug\IPT102GarbageBinData.pdb

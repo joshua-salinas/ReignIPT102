@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[GarbageBin] (Table)
+       [dbo].[GarbageBin].[IX_GarbageBin_BinCode] (Index)
+       [dbo].[CreateGarbageBin] (Procedure)
+       [dbo].[DeleteGarbageBin] (Procedure)
+       [dbo].[GetGarbageBin] (Procedure)
+       [dbo].[UpdateGarbageBin] (Procedure)
+
+** Supporting actions

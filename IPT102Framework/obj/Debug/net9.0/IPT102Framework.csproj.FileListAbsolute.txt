@@ -1,0 +1,40 @@
+C:\IPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.csproj.AssemblyReference.cache
+C:\IPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\IPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.AssemblyInfoInputs.cache
+C:\IPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.AssemblyInfo.cs
+C:\IPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.csproj.CoreCompileInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102Framework.deps.json
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102Framework.dll
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102Framework.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasDomain.dll
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasRepository.dll
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasDomain.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasRepository.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.csproj.AssemblyReference.cache
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.AssemblyInfoInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.AssemblyInfo.cs
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.csproj.CoreCompileInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Fr.0AE637E4.Up2Date
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.dll
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\refint\IPT102Framework.dll
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\ref\IPT102Framework.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102Framework.deps.json
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102Framework.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102Framework.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasDomain.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasRepository.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasDomain.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\bin\Debug\net9.0\IPT102SalinasRepository.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.csproj.AssemblyReference.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.AssemblyInfoInputs.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.AssemblyInfo.cs
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.csproj.CoreCompileInputs.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Fr.0AE637E4.Up2Date
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\refint\IPT102Framework.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\ref\IPT102Framework.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102Framework\obj\Debug\net9.0\IPT102Framework.sourcelink.json
