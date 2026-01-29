@@ -1,0 +1,61 @@
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.exe
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.deps.json
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.runtimeconfig.json
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.dll
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.pdb
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\App.g.cs
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp_MarkupCompile.cache
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp_MarkupCompile.lref
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\MainWindow.baml
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.g.resources
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.AssemblyInfoInputs.cache
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.AssemblyInfo.cs
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.csproj.CoreCompileInputs.cache
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.dll
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\refint\IPT102SalinasWpfApp.dll
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.pdb
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.genruntimeconfig.cache
+C:\IPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\ref\IPT102SalinasWpfApp.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.exe
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.deps.json
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.runtimeconfig.json
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\App.g.cs
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp_MarkupCompile.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp_MarkupCompile.lref
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\MainWindow.baml
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.g.resources
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.AssemblyInfoInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.AssemblyInfo.cs
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.csproj.CoreCompileInputs.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\refint\IPT102SalinasWpfApp.dll
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.pdb
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.genruntimeconfig.cache
+C:\amo ni\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\ref\IPT102SalinasWpfApp.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.exe
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.deps.json
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.runtimeconfig.json
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\bin\Debug\net9.0-windows\IPT102SalinasWpfApp.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\App.g.cs
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp_MarkupCompile.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp_MarkupCompile.lref
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\MainWindow.baml
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.g.resources
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.AssemblyInfoInputs.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.AssemblyInfo.cs
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.csproj.CoreCompileInputs.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\refint\IPT102SalinasWpfApp.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.pdb
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.genruntimeconfig.cache
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\ref\IPT102SalinasWpfApp.dll
+C:\SalinasIPT102\IPT102SalinasSolution\IPT102SalinasWpfApp\obj\Debug\net9.0-windows\IPT102SalinasWpfApp.sourcelink.json
